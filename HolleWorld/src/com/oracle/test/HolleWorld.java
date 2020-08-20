@@ -1,7 +1,7 @@
 package com.oracle.test;
 
-public class HolleWorld {
+public class holleworld {
     public void get(){
-        System.out.println("你好");
+        System.out.println("----");
     }
 }
